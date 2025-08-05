@@ -2,6 +2,8 @@
 
 E-commerce application built with Next.js 15, TypeScript, and Tailwind CSS.
 
+Live Demo Available at [https://e-store-five-zeta.vercel.app](https://e-store-five-zeta.vercel.app)
+
 ## Features
 
 ### Core Features
@@ -28,6 +30,14 @@ E-commerce application built with Next.js 15, TypeScript, and Tailwind CSS.
 - **State Management**: React Context API
 - **Testing**: Jest + React Testing Library
 - **Icons**: Lucide React
+
+## Screenshots
+
+![Screenshot 2025-08-06 at 00 33 23](https://github.com/user-attachments/assets/6c505552-7ffd-4964-893a-cdd62171940e)
+![Screenshot 2025-08-06 at 00 33 37](https://github.com/user-attachments/assets/703d5219-836f-4e75-bd37-ef05778bbe67)
+![Screenshot 2025-08-06 at 00 33 52](https://github.com/user-attachments/assets/9a087d1f-585b-498e-987e-53107623aa75)
+![Screenshot 2025-08-06 at 00 34 56](https://github.com/user-attachments/assets/ca66fe67-4700-45eb-a387-6af7dd7db22c)
+
 
 ## Getting Started
 
