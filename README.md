@@ -34,48 +34,35 @@ E-commerce application built with Next.js 15, TypeScript, and Tailwind CSS.
 ### Prerequisites
 
 - Node.js 18+
-- npm, yarn, or pnpm
+- npm
 
 ### Installation
 
 1. Clone the repository:
-   \`\`\`bash
-   git clone <repository-url>
-   cd simple-e-commerce
-   \`\`\`
+
+```bash
+   git clone <repository-url> e-store
+   cd e-store
+```
 
 2. Install dependencies:
-   \`\`\`bash
+
+```bash
    npm install
-
-# or
-
-yarn install
-
-# or
-
-pnpm install
-\`\`\`
+```
 
 3. Run the development server:
-   \`\`\`bash
+
+```bash
    npm run dev
-
-# or
-
-yarn dev
-
-# or
-
-pnpm dev
-\`\`\`
+```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Available API Endpoints:
 
-- `GET /products`: Fetch products with optional filtering
-- `GET /products/:id`: Fetch single product by ID
+- `GET /api/v1/products`: Fetch products with optional filtering
+- `GET /api/v1/products/:id`: Fetch single product by ID
 
 ## State Management
 
@@ -91,16 +78,9 @@ The application includes some basic tests using Jest and React Testing Library.
 
 ### Running Tests:
 
-\`\`\`bash
-
-# Run tests once
-
+```bash
 npm run test
-
-# Run tests in watch mode
-
-npm run test:watch
-\`\`\`
+```
 
 ## Assumptions made
 
