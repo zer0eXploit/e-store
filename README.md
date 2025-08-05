@@ -109,8 +109,9 @@ npm run test
 
 - Debounce search input to avoid making too many requests
 - Real-time form input validation
+- Database integration
 - User authentication and accounts
-- Real payment processing integration via stripe
+- Payment processing integration via stripe
 - Product reviews and ratings
 - Wishlist functionality
 - Order history and tracking
