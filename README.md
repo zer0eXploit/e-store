@@ -29,6 +29,7 @@ Live Demo Available at [https://e-store-five-zeta.vercel.app](https://e-store-fi
 - **UI Components**: Shadcn UI
 - **State Management**: React Context API
 - **Testing**: Jest + React Testing Library
+- **Querying**: Axios + TanStack Query
 - **Icons**: Lucide React
 
 ## Screenshots
