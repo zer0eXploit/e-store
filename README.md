@@ -43,7 +43,7 @@ Live Demo Available at [https://e-store-five-zeta.vercel.app](https://e-store-fi
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js ^18.14.0 || ^20.0.0 || ^22.0.0 || >=24.0.0
 - npm
 
 ### Installation
