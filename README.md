@@ -1,6 +1,6 @@
-# E-Commerce Frontend Application
+# E-Store, a Simple E-Commerce App
 
-E-commerce application built with Next.js 15, TypeScript, and Tailwind CSS.
+App built with Next.js 15, TypeScript, and Tailwind CSS.
 
 Live Demo Available at [https://e-store-five-zeta.vercel.app](https://e-store-five-zeta.vercel.app)
 
